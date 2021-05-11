@@ -15,21 +15,33 @@
 			</storyboard>
 		</image>
 		<video name="videobox" extra="true">
-			<path>{random}</path>
-			<path>./../../_inc/anim/video/${system.theme}.mp4</path>
+			<path>{random}</path>			
 			<delay>0</delay>
 			<effect>none</effect>
-			<origin>0.5 0.5</origin>
-			<pos>0.52 0.485</pos>
-			<maxSize>0.28</maxSize>
+			<origin>0.7 0.1</origin>
+			<pos>0.5 0.285</pos>
+			<maxSize>0.25</maxSize>			
 			<zIndex>25</zIndex>
 			<storyboard>
-				<animation property="pos" to="0.24 0.485" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.22 0.285" begin="2000" duration="1000" mode="linear"/>
+			</storyboard>
+		</video>
+		<video name="videobox2" extra="true">
+			<path>{random}</path>
+			<audio>false</audio>			
+			<delay>0</delay>
+			<effect>none</effect>
+			<origin>0.7 0.9</origin>
+			<pos>0.5 0.285</pos>
+			<maxSize>0.25</maxSize>
+			<zIndex>25</zIndex>
+			<storyboard>
+				<animation property="pos" to="0.22 0.285" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<text name="TextDate" extra="true">
 			<pos>0.49 0.2</pos>
-			<text>2014</text>
+			<text>2005</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.03</fontSize>
@@ -42,7 +54,8 @@
 		</text>
 		<text name="TextName" extra="true">
 			<pos>0.49 0.25</pos>
-			<text>PICO-8</text>
+			<text>PinballFX2
+PinballFX3</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>FFFFFF</color>
 			<fontSize>0.065</fontSize>
@@ -56,8 +69,8 @@
 		</text>
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
-			<pos>0.49 0.35</pos>
-			<text>PICO-8 es una consola de fantasía para crear, compartir y jugar a pequeños juegos y otros programas informáticos. Parece una consola normal, pero funciona con Windows / Mac / Linux. Cuando la enciendes, la máquina te recibe con una línea de comandos, un conjunto de herramientas de creación de cartuchos y un navegador de cartuchos online llamado SPLORE.</text>
+			<pos>0.49 0.4</pos>
+			<text>Pinball FX es una serie de videojuegos desarrollada por el desarrollador húngaro Zen Studios que consiste en recopilar mesas de pinball virtuales. Esta completa wiki está diseñada para proporcionar amplia información sobre las decenas de mesas, tanto originales como con licencia, que Zen Studios ha desarrollado a lo largo de seis grandes entregas (Pinball FX, Zen Pinball, Pinball FX 2, Zen Pinball 2, Pinball FX 3 y Zen Pinball Mobile), disponibles para su descarga en muchas consolas domésticas, en los principales sistemas operativos de ordenador y en smartphones.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

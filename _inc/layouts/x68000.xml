@@ -20,11 +20,11 @@
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.49 0.4</pos>
-			<maxSize>0.22</maxSize>
+			<pos>0.455 0.274</pos>
+			<maxSize>0.216</maxSize>
 			<zIndex>25</zIndex>
 			<storyboard>
-				<animation property="pos" to="0.21 0.4" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.169 0.274" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<text name="TextDate" extra="true">
@@ -58,17 +58,12 @@ X68000</text>
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.40</pos>
-			<text>The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.
+			<text>
+El X68000 (japonés: エックス, Hepburn: Ekkusu Rokuman Hassen) es un ordenador doméstico creado por Sharp Corporation, lanzado por primera vez en 1987, vendido sólo en Japón.
 
-The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive; the last model was released in 1993 with a 25 MHz Motorola 68030 CPU, 4 MB of RAM, and optional 80 MB SCSI hard drive. RAM in these systems is expandable to 12 MB, though most games and applications do not require more than 2 MB.</text>
-			<text lang="pl">Descpriptions. Pls send me it in Discord</text>
-			<text lang="fr">Le Sharp X68000, communément appelé X68000 ou X68k, est un ordinateur personnel de Sharp Corporation commercialisé au Japon à partir de 1987. Le premier modèle utilisait un microprocesseur Motorola 68000 à 10 MHz, avec 1 mégaoctet de mémoire vive et aucun disque dur. Le dernier modèle, lancé en 1993, avait un Motorola 68030 à 25 MHz, avec 4 Mio de mémoire vive et un disque dur SCSI de 80 Mo en option. Les modèles de base comportaient deux lecteurs de disquettes 5" ¼.
-
-Cet ordinateur fonctionne avec un système d'exploitation appelé Human68k, développé conjointement par le constructeur même, à savoir Sharp et Hudson Soft. Human68k fonctionne selon le même principe que MS-DOS, qui se base sur des commandes saisies par l'utilisateur. Les fichiers exécutables se terminent par l'extension .X. Trois versions majeures de ce système d'exploitation ont été lancées.</text>
-			<text lang="de">Descpriptions. Pls send me it in Discord</text>
-			<text lang="ru">Серия бытовых компьютеров, выпускавшихся в Японии компанией Sharp Corporation. В других странах эти компьютеры не продавались. Первая модель была выпущена в 1987 году. Она имела процессор Motorola 68000 на частоте 10 МГц, 1 мегабайт ОЗУ, и не имела жёсткого диска. Последняя модель выпущена в 1993 году, она использовала процессор Motorola 68030 на частоте 25 МГц, имела 4 мегабайта ОЗУ, и опциональный жёсткий диск стандарта SCSI объёмом 80 МБ. ОЗУ этих компьютеров могло быть расширено до 12 мегабайт, однако большинство приложений и игр требовали для своей работы не более 2 МБ ОЗУ.
-
-Компьютер X68000 работают под управлением операционной системы Human68K, разработанной для Sharp компанией Hudson Soft. Она имеет интерфейс командной строки, и набор команд, очень похожий на набор команд ОС DOS (вводятся английскими буквами). Было выпущено три версии этой ОС, с несколькими промежуточными обновлениями между ними. Помимо Human68K, было возможно использование специальных версий NetBSD для X68030 и OS-9.</text>
+El primer modelo cuenta con una CPU Motorola 68000 a 10 MHz (de ahí su nombre), 1 MB de RAM y sin disco duro; el último modelo salió a la venta en 1993 con una CPU Motorola 68030 a 25 MHz, 4 MB de RAM y un disco duro SCSI opcional de 80 MB. La memoria RAM de estos sistemas es ampliable hasta 12 MB, aunque la mayoría de los juegos y aplicaciones no requieren más de 2 MB.
+La WonderSwan es una videoconsola portátil lanzada en Japón por Bandai. Fue desarrollada por la empresa Koto Laboratory de Gunpei Yokoi y Bandai, y fue la última pieza de hardware que desarrolló Yokoi antes de su muerte en 1997. Lanzada en 1999 en la quinta generación de consolas de videojuegos, la WonderSwan y sus dos modelos posteriores, la WonderSwan Color y la SwanCrystal, recibieron apoyo oficial hasta que Bandai las dejó de fabricar en 2003. Durante su vida útil, no se lanzó ninguna variante de la WonderSwan fuera de Japón.
+</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

@@ -20,16 +20,16 @@
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.52 0.485</pos>
-			<maxSize>0.28</maxSize>
+			<pos>0.5 0.385</pos>
+			<maxSize>0.365</maxSize>
 			<zIndex>25</zIndex>
 			<storyboard>
-				<animation property="pos" to="0.24 0.485" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.22 0.385" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<text name="TextDate" extra="true">
 			<pos>0.49 0.2</pos>
-			<text>2014</text>
+			<text>2020</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.03</fontSize>
@@ -42,7 +42,7 @@
 		</text>
 		<text name="TextName" extra="true">
 			<pos>0.49 0.25</pos>
-			<text>PICO-8</text>
+			<text>Videos de Ayuda</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>FFFFFF</color>
 			<fontSize>0.065</fontSize>
@@ -56,8 +56,8 @@
 		</text>
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
-			<pos>0.49 0.35</pos>
-			<text>PICO-8 es una consola de fantasía para crear, compartir y jugar a pequeños juegos y otros programas informáticos. Parece una consola normal, pero funciona con Windows / Mac / Linux. Cuando la enciendes, la máquina te recibe con una línea de comandos, un conjunto de herramientas de creación de cartuchos y un navegador de cartuchos online llamado SPLORE.</text>
+			<pos>0.49 0.4</pos>
+			<text>Video tutoriales para poder realizar tareas o simplemente conocer mejor BoBWin</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

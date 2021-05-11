@@ -20,30 +20,45 @@
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.469 0.368</pos>
-			<maxSize>0.13</maxSize>
+			<pos>0.5 0.363</pos>
+			<maxSize>0.14</maxSize>
 			<zIndex>25</zIndex>
 			<storyboard>
-				<animation property="pos" to="0.189 0.368" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.22 0.363" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<video name="videobox2" extra="true">
 			<path>{random}</path>
-			<path>./../../_inc/anim/video/${system.theme}.mp4</path>
-			<audio>false</audio>
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.645 0.640</pos>
-			<maxSize>0.15</maxSize>
+			<pos>0.66 0.37</pos>
+			<maxSize>0.13</maxSize>
 			<zIndex>25</zIndex>
+			<linearSmooth>true</linearSmooth>
+			<rotation>1.85</rotation>
+			<audio>false</audio>
 			<storyboard>
-				<animation property="pos" to="0.365 0.640" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.38 0.37" begin="2000" duration="1000" mode="linear"/>
+			</storyboard>
+		</video>
+		<video name="videobox3" extra="true">
+			<path>{random}</path>
+			<delay>0</delay>
+			<effect>none</effect>
+			<origin>0.5 0.5</origin>
+			<pos>0.35 0.37</pos>
+			<maxSize>0.13</maxSize>
+			<zIndex>25</zIndex>
+			<rotation>-1.85</rotation>
+			<audio>false</audio>
+			<storyboard>
+				<animation property="pos" to="0.07 0.37" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<text name="TextDate" extra="true">
 			<pos>0.49 0.2</pos>
-			<text>2000</text>
+			<text></text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.03</fontSize>
@@ -56,7 +71,7 @@
 		</text>
 		<text name="TextName" extra="true">
 			<pos>0.49 0.25</pos>
-			<text>Daphne</text>
+			<text>Capcom CP-1 CP-2 CP-3</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>FFFFFF</color>
 			<fontSize>0.065</fontSize>
@@ -71,7 +86,11 @@
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.35</pos>
-			<text>DAPHNE es una aplicación emuladora de arcade que emula una variedad de videojuegos de laserdisc con la intención de preservar estos juegos y hacer que la experiencia de juego sea lo más fiel posible a los originales. El desarrollador llama a DAPHNE el "primer emulador múltiple de arcade para discos láser" ("FEMALE"). Su nombre proviene de la princesa Daphne, la heroína de Dragon's Lair.</text>
+			<text>CP System (CPシステム shīpī shisutemu?), CPS-1, o Capcom Play System 1 es una placa arcade hecha por Capcom que debutó en 1988 con Forgotten Worlds. Street Fighter II, uno de los juegos de lucha más importantes y famosos del género, utilizó esta placa.
+
+CP System II (CPシステムII shīpī shisutemu tsū?), CPS-2 o Capcom Play System 2 es un sistema de placa base para máquinas recreativas que debutó en 1993 con el juego Super Street Fighter II. El CPS-2 consiste en 2 partes separadas; la placa A, que se conecta al arnés JAMMA y contiene los componentes comunes para todos los juegos CPS-s, y la placa B, que contiene el juego como tal. La relación entre las placas A y B son básicamente las mismas que entre una videoconsola para el hogar y los cartuchos de juego. Las placas A y B del sistema CPS-2 están identificadas por códigos de colores por región, y cada placa solo puede ser usada con otra del mismo color.
+
+La CP System III, CPS-3 o Capcom Play System 3 es una placa arcade que fue creada e introducida por Capcom en 1996 con el juego Red Earth (llamado Warzard en Japón). Es extremadamente poderosa en el manejo de las 2D; algunos fanes de los juegos de lucha se quedaron asombrados por la resolución de los personajes en pantalla y fluidas animaciones en títulos como Street Fighter III, además de otros juegos de este hardware. Esta fue la última placa arcade fabricada por Capcom antes de migrar a Sega NAOMI.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>
