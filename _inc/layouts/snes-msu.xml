@@ -20,16 +20,16 @@
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.475 0.335</pos>
-			<maxSize>0.20</maxSize>
+			<pos>0.5 0.39</pos>
+			<maxSize>0.24</maxSize>
 			<zIndex>25</zIndex>
 			<storyboard>
-				<animation property="pos" to="0.195 0.335" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.22 0.39" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<text name="TextDate" extra="true">
 			<pos>0.49 0.2</pos>
-			<text>1981</text>
+			<text>1990</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.03</fontSize>
@@ -42,7 +42,8 @@
 		</text>
 		<text name="TextName" extra="true">
 			<pos>0.49 0.25</pos>
-			<text>PC / MS-DOS</text>
+			<text>Super Nintendo
+Entertainment System - MSU1</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>FFFFFF</color>
 			<fontSize>0.065</fontSize>
@@ -56,10 +57,12 @@
 		</text>
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
-			<pos>0.49 0.35</pos>
-			<text>S-DOS (em-es-DOSS; acrónimo de Microsoft Disk Operating System) es un sistema operativo para ordenadores personales basados en x86 desarrollado principalmente por Microsoft. En conjunto, MS-DOS, su renacimiento como IBM PC DOS, y algunos sistemas operativos que intentan ser compatibles con MS-DOS, se denominan a veces "DOS" (que es también el acrónimo genérico de sistema operativo de disco). MS-DOS fue el principal sistema operativo para ordenadores personales compatibles con IBM PC durante la década de 1980, momento a partir del cual fue sustituido gradualmente por sistemas operativos que ofrecían una interfaz gráfica de usuario (GUI), en varias generaciones del sistema operativo gráfico Microsoft Windows.
+			<pos>0.49 0.4</pos>
+			<text>El MSU1 es un proyecto de chip perfectamente documentado y factible de fabricar que permite que una Super Nintendo pueda manejar hasta 4 Gigabytes de Datos. Con una capacidad tan grande la consola es capaz de ejecutar vÍdeo a una calidad respetable y ofrecer audio con calidad CD sin perdida. Es un chip de expansión bastante sencillo, no muy distinto de otros que engrosaban las listas de algunos de los juegos de última hornada de Super Nintendo, como el Super Fx de 'StarFox' o los DSP incluidos en 'Pilotwings' , 'Super Mario Kart' y otros.
 
-IBM lo licenció y relanzó en 1981 como PC DOS 1.0 para su uso en sus ordenadores personales. Aunque MS-DOS y PC DOS fueron desarrollados inicialmente en paralelo por Microsoft e IBM, los dos productos se separaron después de doce años, en 1993, con diferencias reconocibles en cuanto a compatibilidad, sintaxis y capacidades.</text>
+Pero al contrario de los otros chips el MSU-1 es un chip virtual programado por Byuu autor de los emuladores bsnes y higan.
+El chip de expansión MSU-1 ofrece hasta cuatro gigabytes de almacenamiento de datos. Que pueden usarse para almacenar, por ejemplo, vídeos. Lo más interesante que ofrece es la reproducción de música con calidad de CD, dejando el propio chip de sonido SPC700 de la SNES libre para hacer mejores efectos de sonido. Esto nos dejaría a la SNES a la altura del mega-CD o TurboGrafx-16/PC-Engine.
+Además del parche necesitaremos de una "banda sonora orquestada" ya que el parche por si solo no hace "magia", es decir que el parche no convierte la música spc700 en formato cd si no que, podemos aprovechar obras hechas por fans o grupos de fans con calidad digital y se reproduzcan en los emuladores.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

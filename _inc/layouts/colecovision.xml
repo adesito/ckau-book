@@ -57,21 +57,11 @@
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.35</pos>
-			<text>The ColecoVision is Coleco Industries' second-generation home video-game console that was released in August 1982. The ColecoVision offered a closer experience to more powerful arcade game systems, compared to competitors such as the Atari 2600 and Atari 5200, along with the means to expand the system's basic hardware.
+			<text>La ColecoVision es la segunda generación de videoconsolas domésticas de Coleco Industries que salió a la venta en agosto de 1982. La ColecoVision ofrecía una experiencia más cercana a los sistemas de juegos arcade más potentes, en comparación con competidores como la Atari 2600 y la Atari 5200, junto con los medios para ampliar el hardware básico del sistema.
 
-The initial catalog of twelve games included Nintendo's Donkey Kong as the pack-in cartridge, Sega's Zaxxon, and some lesser known arcade titles that found a larger audience on the console, such as Lady Bug, Cosmic Avenger, and Venture. Approximately 145 titles in total were published as ROM cartridges for the system between 1982 and 1984. Coleco released a series of hardware add-ons and special controllers to expand the capabilities of the console.
+El catálogo inicial de doce juegos incluía el Donkey Kong de Nintendo como cartucho de entrada, el Zaxxon de Sega y algunos títulos arcade menos conocidos que encontraron una mayor audiencia en la consola, como Lady Bug, Cosmic Avenger y Venture. Entre 1982 y 1984 se publicaron aproximadamente 145 títulos en total como cartuchos ROM para el sistema. Coleco lanzó una serie de complementos de hardware y mandos especiales para ampliar las capacidades de la consola.
 
-The ColecoVision was discontinued in 1985 when Coleco withdrew from the video game market.</text>
-			<text lang="pl">Descpriptions. Pls send me it in Discord</text>
-			<text lang="fr">La ColecoVision est une console de jeu vidéo de deuxième génération commercialisée par Coleco (Connecticut Leather Company), sortie en août 1982. Elle propose des graphismes et des manettes similaires aux jeux d'arcade de l'époque.
-
-Le Colecovision est commercialisé à l'été 1982 pour un prix de 399 $. Le catalogue de lancement comprend douze titres, avec dix titres à venir en plus. Finalement, environ 400 titres sont sortis sur cartouche pendant toute sa vie. La majorité des titres de son catalogue sont des conversions de jeux d'arcade.</text>
-			<text lang="de">Descpriptions. Pls send me it in Discord</text>
-			<text lang="ru">Игровая приставка второго поколения компании Coleco Industries, выпущенная в августе 1982 года. ColecoVision предлагала графику и игровой процесс на уровне игровых автоматов, возможность использования игр от других игровых систем (в основном от Atari 2600), а также расширяемость возможностей системы. Система была выпущена в продажу одновременно с 12 играми для неё, и 10 игр планировалось к выходу в течение 1982 года. За время с 1982 по 1985 год было выпущено около 170 игр (на картриджах).
-
-Внешне консоль представляла собой прямоугольный пластиковый корпус размером 14×8×2 дюймов (356×203×51 мм), в котором находилась электроника консоли. Крышка слота картриджа находилась на верхней правой стороне корпуса. Внешний источник питания и антенный шнур подключались к разъёмам сзади консоли. Игровые контроллеры помещались в специальное углубление в корпусе, в верхней левой части.
-
-Дизайн игрового контроллера ColecoVision был сходен с контроллером от Mattel Intellivision (вышедшей в 1979), но имел короткую 1,5-дюймовую ручку джойстика вместо вращающегося диска. Джойстик находился в верхней части контроллера, над прямоугольной цифровой клавиатурой. Две боковых кнопки и клавиатура предоставляли дополнительные возможности управления, такие как прыжок, стрельба или набор последовательности чисел. Также присутствовал очень тонкий слот для вставки пластиковых накладок, содержащих описание назначения кнопок для конкретной игры. В комплектацию консоли входило два таких игровых контроллера, а также есть совместимость с другими контроллерами, можно подключить контроллер от Atari 2600 и Sega Mega Drive\Sega Genesis.</text>
+La ColecoVision se dejó de fabricar en 1985, cuando Coleco se retiró del mercado de los videojuegos.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

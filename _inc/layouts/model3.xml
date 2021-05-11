@@ -19,11 +19,11 @@
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.5 0.363</pos>
-			<maxSize>0.14</maxSize>
+			<pos>0.50 0.385</pos>
+			<maxSize>0.25</maxSize>
 			<zIndex>25</zIndex>
 			<storyboard>
-				<animation property="pos" to="0.22 0.363" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.22 0.385" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<video name="videobox2" extra="true">
@@ -32,12 +32,12 @@
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.66 0.37</pos>
-			<maxSize>0.13</maxSize>
+			<pos>0.65 0.425</pos>
+			<maxSize>0.15</maxSize>
 			<zIndex>25</zIndex>
-			<rotation>2</rotation>
+			<rotation>0</rotation>
 			<storyboard>
-				<animation property="pos" to="0.38 0.37" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.37 0.425" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<video name="videobox3" extra="true">
@@ -46,17 +46,17 @@
 			<delay>0</delay>
 			<effect>none</effect>
 			<origin>0.5 0.5</origin>
-			<pos>0.35 0.37</pos>
-			<maxSize>0.13</maxSize>
+			<pos>0.35 0.425</pos>
+			<maxSize>0.15</maxSize>
 			<zIndex>25</zIndex>
-			<rotation>-2</rotation>
+			<rotation>0</rotation>
 			<storyboard>
-				<animation property="pos" to="0.07 0.37" begin="2000" duration="1000" mode="linear"/>
+				<animation property="pos" to="0.07 0.425" begin="2000" duration="1000" mode="linear"/>
 			</storyboard>
 		</video>
 		<text name="TextDate" extra="true">
 			<pos>0.49 0.2</pos>
-			<text>1997</text>
+			<text></text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.03</fontSize>
@@ -69,7 +69,7 @@
 		</text>
 		<text name="TextName" extra="true">
 			<pos>0.49 0.25</pos>
-			<text>MAME</text>
+			<text>Arcade</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>FFFFFF</color>
 			<fontSize>0.065</fontSize>
@@ -84,9 +84,36 @@
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.35</pos>
-			<text>MAME (originalmente un acrónimo de Multiple Arcade Machine Emulator) es un emulador gratuito y de código abierto diseñado para recrear el hardware de los sistemas de juegos arcade en software en ordenadores personales modernos y otras plataformas. Su intención es preservar la historia del juego evitando que los juegos antiguos se pierdan o se olviden. Para ello, emula el funcionamiento interno de las máquinas recreativas emuladas; la posibilidad de jugar realmente a los juegos se considera "un bonito efecto secundario". Joystiq ha catalogado a MAME como una aplicación que todo jugador de Windows y Mac debería tener.
+			<text>El Sega Model 3 Step 1.0 fue lanzada por Sega en 1996 y es la primera de las Model 3, ya que posteriormente se lanzaron tres revisiones más.
+Posee un procesador PowerPC 603 de 64-bits RISC @ 66 MHz. y tiene un procesador de sonido 68EC000 corriendo a 11.3 MHz. Al igual que la última revisión de la Model 2, de forma opcional, puede tener además una tarjeta de sonido, la cual tiene dos variantes (son las mismas que posee la Sega Model 2C-CRX).
+En esta placa funcionaron 4 títulos.
 
-El primer lanzamiento público de MAME fue realizado por Nicola Salmoria el 5 de febrero de 1997. Ahora soporta más de 7.000 juegos únicos y 10.000 conjuntos de imágenes ROM reales, aunque no todos los juegos son jugables. MESS, un emulador para muchas consolas de videojuegos y sistemas informáticos, basado en el núcleo de MAME, se integró en MAME en 2015.</text>
+Procesador
+ - PowerPC 603 de 64-bits RISC @ 66 MHz.
+Audio
+ - 68EC000 corriendo a 11.3 MHz.
+Chips de Sonido:
+ - Yamaha SCSP/YMF-292F/"LAKE" FH1 128-step DSP x 2, MIDI interface, 16 bits 64 voices 4 channel, maximum of 16.5 Mbytes ROM, 64 PCM channels
+ - Audio RAM: 1 Mb (8 megabits, 512K por chip SCSP)
+Tarjeta de sonido opcional:
+ - Configuración 1
+   * Hardware : DSB1
+   * CPU: Z80
+   * Sound Chip : NEC uD65654GF102
+ - Configuración 2:
+   * Hardware : DSB2
+   * CPU: 68000
+   * Sound Chip: NEC uD65654GF102
+Nota: Ambas configuraciones pueden reproducir música en estéreo o mono, y pueden transmitir música desde los canales izquierdo y derecho por separado.
+Video
+ - 2 x Lockheed Martin Real3D/PRO-1000
+ - Memoria Ram: 8 Mb corriendo a 66 MHz.
+ - Memoria Rom: 64 Mb como máximo, backup RAM de 64 Kb
+ - Resolución: 496x384
+ - Geometría: 1,000,100 polígonos/s. (cuadrados), 2,000,200 polígonos/s. (triangulares)
+ - Rendering: 60,000,000 pixeles/s.
+ - Video: Full Color Texture Mapping, Tri-Linear Interpolation, Micro Texture, Shading High-Specula Gouraud Shading , Fix Shading, Flat Shading, Texture & Edge Multi Layered Anti-Allasing, Lighting Effects, Parallel Light, 4 Spot Light, Pin Spot Light, Special Effect Zoning-Fog, 32 Levels of Translucency.
+			</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

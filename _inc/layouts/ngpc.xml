@@ -58,21 +58,9 @@ Pocket Color</text>
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.4</pos>
-			<text>The Neo Geo Pocket Color is a 16-bit color handheld video game console manufactured by SNK. It is a successor to SNK's monochrome Neo Geo Pocket handheld which debuted in 1998 in Japan, with the Color being fully backward compatible. The Neo Geo Pocket Color was released on March 16, 1999 in Japan, August 6, 1999 in North America, and on October 1, 1999 in Europe, entering markets all dominated by Nintendo, competing with Nintendo's Game Boy Color.
+			<text>La Neo Geo Pocket Color es una videoconsola portátil en color de 16 bits fabricada por SNK. Es la sucesora de la Neo Geo Pocket monocromática de SNK, que debutó en 1998 en Japón, y que es totalmente compatible con la versión anterior. La Neo Geo Pocket Color salió a la venta el 16 de marzo de 1999 en Japón, el 6 de agosto de 1999 en Norteamérica y el 1 de octubre de 1999 en Europa, entrando en los mercados dominados por Nintendo, compitiendo con la Game Boy Color de Nintendo.
 
-After a good sales start in both the U.S. and Japan with 14 launch titles (a record at the time), subsequent low retail support in the U.S., lack of communication with third-party developers by SNK's American management, the popularity of Nintendo's Pokémon franchise and anticipation of the 32-bit Game Boy Advance, and strong competition from Bandai's WonderSwan in Japan, led to a sales decline in both regions.</text>
-			<text lang="pl">Descpriptions. Pls send me it in Discord</text>
-			<text lang="fr">La Neo-Geo Pocket Color (ou NGPC) est une console portable 16 bits conçue par SNK. La console sort le 16 mars 1999 au Japon, le 6 août 1999 en Amérique du Nord, et le 1er octobre 1999 dans certains pays d’Europe. Elle succède à la console monochrome Neo-Geo Pocket, sortie une année plus tôt.
-
-Le système d'exploitation possède une fonction originale, la langue est réglée dans la console. De ce fait, les jeux affichent leurs textes dans la langue sélectionnée (en supposant que la cartouche fournisse la langue demandée). D'autres paramètres peuvent être réglés dans la console, l'heure et la date par exemple, et le système d'exploitation peut fournir des horoscopes personnalisés quand une date de naissance est entrée.
-
-Des câbles pour relier plusieurs consoles sont disponibles, ainsi qu'un câble pour connecter la NGPC avec une Dreamcast de Sega pour certains jeux. Il existe également un connecteur sans fil sorti au Japon permettant à plusieurs joueurs de jouer ensemble. Une extension lecteur MP3 a été développée mais n'est pas sortie en raison de la fermeture de SNK.</text>
-			<text lang="de">Descpriptions. Pls send me it in Discord</text>
-			<text lang="ru">Портативная игровая приставка. Через 2 месяца после выхода монохромной Neo-Geo Pocket, конкурент SNK — Nintendo выпустил цветную версию своей портативной приставки — Game Boy Color. Поскольку в новом продукте Nintendo был цветной экран, продукт SNK начал продаваться в меньших количествах и чтобы не потерять спрос, в 1999 году была создана цветная версия приставки — Neo Geo Pocket Color. По некоторым параметрам она даже обгоняла Game Boy Color, но консоль не сумела захватить более 2% мирового рынка и уже через год поддержка была прекращена.
-
-Через месяц, после выхода консоли, Sega объявила о сотрудничестве с создателями Neo-Geo. Для Pocket Color выпущена игра Sonic the Hedgehog Pocket Adventure. Игра стала успешной, благодаря чему доход получили и Sega и SNK Playmore.
-
-Для Neo Geo Pocket было выпущено лишь 10 монохромных игр из 82. Остальные выпускались уже для Neo Geo Pocket Color.</text>
+Tras un buen comienzo de ventas tanto en Estados Unidos como en Japón, con 14 títulos de lanzamiento (un récord en aquella época), el posterior escaso apoyo de los minoristas en Estados Unidos, la falta de comunicación con los desarrolladores de terceros por parte de la dirección americana de SNK, la popularidad de la franquicia Pokémon de Nintendo y la anticipación de la Game Boy Advance de 32 bits, así como la fuerte competencia de WonderSwan de Bandai en Japón, provocaron un descenso de las ventas en ambas regiones.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

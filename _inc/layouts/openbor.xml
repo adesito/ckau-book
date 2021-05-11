@@ -57,13 +57,7 @@
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.35</pos>
-			<text>Beats of Rage is a fan-made tribute game to Sega's Streets of Rage series. It supplants the original graphics and characters with resources taken from The King of Fighters series, albeit with tongue-in-cheek renames. Originally developed by Senile Team, the underlying engine powering Beats of Rage later went on to become the Open Beats of Rage (OpenBOR) game engine project.</text>
-			<text lang="pl">Descpriptions. Pls send me it in Discord</text>
-			<text lang="fr">Beats of Rage est un jeu vidéo open source créé en hommage au jeu Streets of Rage 2 de Sega. Il a été développé en 9 mois. Le jeu a ensuite été modé et porté sur plusieurs autres systèmes, et a ainsi gagné en popularité, avec plus d'un million d'exemplaires téléchargés.
-OpenBOR Probablement la raison la plus importante du succès durable de BOR, son moteur de jeu personnalisable, permettant de créer de nouveaux jeux. Les jeux développés pour le moteur Beats of Rage sont communément appelés «mods», les créateurs "moddeurs", et le moteur lui-même est communément désigné comme "modifiable". Beats of Rage est devenu si populaire en raison de la capacité de personnalisation du moteur qu'il est devenu le modèle des moteurs de personnalisation pour les consoles de jeux vidéo.</text>
-			<text lang="de">Descpriptions. Pls send me it in Discord</text>
-			<text lang="ru">Кросс-платформенный движок для создания двумерных beat 'em up’ов, позволяющий быстро и эффективно разрабатывать игры, не прибегая к программированию. Первая версия была выпущена в 2003-м году, работала только под DOS. 
-Начиная с 2005-го движок переведён в статус открытого ПО (open sourse). В настоящее время поддерживается группой энтузиастов, среди которых есть несколько разработчиков оригинального Beats Of Rage (BOR). Существуют версии для таких платформ как Windows, DOS, Dreamcast, PSP, GP2X и X-Box (как бинарники, так и исполнимые файлы). Есть неофициальные версии для PS2 и GP32. Поскольку написан на C++, теоретически может быть портирован на любую платформу (при достаточных навыках кодинга).</text>
+			<text>Beats of Rage es un juego de homenaje a la serie Streets of Rage de Sega hecho por fans. Sustituye los gráficos y los personajes originales por recursos tomados de la serie The King of Fighters, aunque con nombres irónicos. Originalmente desarrollado por Senile Team, el motor subyacente de Beats of Rage se convirtió más tarde en el proyecto de motor de juego Open Beats of Rage (OpenBOR).</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

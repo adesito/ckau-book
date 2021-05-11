@@ -57,24 +57,11 @@
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.35</pos>
-			<text>The Game &amp; Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen. The models from 1981 onwards featured an alarm in addition. It was the earliest Nintendo video game product to gain major success.
+			<text>La marca Game &amp; Watch es una serie de juegos electrónicos portátiles desarrollados, fabricados, lanzados y comercializados por Nintendo desde 1980 hasta 1991. Creado por el diseñador de juegos Gunpei Yokoi, el producto debe su nombre a que incluye un único juego y un reloj en una pantalla LCD. Los modelos de 1981 en adelante incluían además una alarma. Fue el primer producto de videojuegos de Nintendo que obtuvo un gran éxito.
 
-The units are based on a 4-bit CPU, from the Sharp SM5xx family, that include a small ROM and RAM area and an LCD screen driver circuit, although, prior to its simulation in MAME, there was a misconception in that every unit used a custom ASIC instead of a proper microcontroller.
+Las unidades se basan en una CPU de 4 bits, de la familia Sharp SM5xx, que incluye una pequeña zona de ROM y RAM y un circuito controlador de la pantalla LCD, aunque, antes de su simulación en MAME, existía la idea errónea de que cada unidad utilizaba un ASIC personalizado en lugar de un microcontrolador adecuado.
 
-The series sold a combined of 43.4 million units worldwide.</text>
-			<text lang="pl">Descpriptions. Pls send me it in Discord</text>
-			<text lang="fr">Les Game and Watch sont des jeux électroniques de poche, ancêtre de la console de jeux portables , produits par la société Nintendo de 1980 à 1991, ils font également office de montres et de réveils.
-
-Vendus à 43,4 millions d'exemplaires à travers le monde, ces 59 jeux représentent l'un des plus gros succès de la firme de Kyōto.
-
-En 2020, Game And Watch fait son retour avec une console spéciale pour les 35 ans de la série Super Mario Bros.</text>
-			<text lang="de">Descpriptions. Pls send me it in Discord</text>
-			<text lang="ru">Серия портативных электронных игр с ЖК-экраном. Серия была создана разработчиком игр Гумпэем Ёкои в компании Nintendo, игры выпускались с 1980 по 1991 год и в 2020 году (только Game & Watch: Super Mario Bros). Большинство устройств позволяло играть только в одну игру — это ограничение было вызвано использованием сегментированного ЖК-экрана. На многих играх находились кнопки «Игра A» и «Игра B», причём игра B обычно была просто более быстрой и сложной версией игры A. Скорость игры и скорость отклика тоже были ограничены скоростью изменения состояния индикатора. Также устройство включало в себя часы и будильник.
-
-Game &amp; Watch работали от батареек-«таблеток»; из серии LR4x/SR4x использовались батарейки минимальной высоты.
-
-Устройство появилось благодаря тому, что Гумпэй Ёкои, путешествуя на поезде синкансэне, заметил скучающего бизнесмена, который пытался развлечь себя, нажимая на кнопки калькулятора. Ёкои тогда пришла в голову идея маленькой игровой машинки, которая может использоваться как часы и позволит скоротать время.
-</text>
+La serie vendió un total de 43,4 millones de unidades en todo el mundo.</text>			
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>

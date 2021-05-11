@@ -58,23 +58,11 @@ Game Boy Color</text>
 		<text name="TextDesc" extra="true">
 			<size>0.5 0</size>
 			<pos>0.49 0.4</pos>
-			<text>The Game Boy Color (commonly abbreviated as GBC) is a handheld game console, manufactured by Nintendo, which was released in Japan on October 21, 1998 and to international markets that November. It is the successor to the original Game Boy and is part of the Game Boy family.
+			<text>La Game Boy Color (comúnmente abreviada como GBC) es una videoconsola portátil, fabricada por Nintendo, que salió a la venta en Japón el 21 de octubre de 1998 y en los mercados internacionales en noviembre. Es la sucesora de la Game Boy original y forma parte de la familia Game Boy.
 
-The GBC features a color screen rather than monochrome, but it is not backlit. It is slightly thicker and taller and features a slightly smaller screen than the Game Boy Pocket, its immediate predecessor in the Game Boy line. As with the original Game Boy, it has a custom 8-bit processor made by Sharp that is considered a hybrid between the Intel 8080 and the Zilog Z80. The American English spelling of the system's name, Game Boy Color, remains consistent throughout the world.
+La GBC cuenta con una pantalla en color en lugar de monocromática, pero no está retroiluminada. Es ligeramente más gruesa y más alta y tiene una pantalla algo más pequeña que la Game Boy Pocket, su predecesora inmediata en la línea Game Boy. Al igual que la Game Boy original, cuenta con un procesador de 8 bits personalizado fabricado por Sharp que se considera un híbrido entre el Intel 8080 y el Zilog Z80. La ortografía en inglés americano del nombre del sistema, Game Boy Color, se mantiene en todo el mundo.
 
-The Game Boy Color is part of the fifth generation of video game consoles. The GBC's primary competitors in Japan were the grayscale 16-bit handhelds, SNK's Neo Geo Pocket and Bandai's WonderSwan, though the Game Boy Color outsold them by a wide margin. SNK and Bandai countered with the Neo Geo Pocket Color and the WonderSwan Color, respectively, but this did little to change Nintendo's sales dominance. With Sega discontinuing the Game Gear in 1997, the Game Boy Color's only competitor in the United States was its predecessor, the Game Boy, until the short-lived Neo Geo Pocket Color was released in North America in August 1999.</text>
-			<text lang="pl">Descpriptions. Pls send me it in Discord</text>
-			<text lang="fr">La (ou le) Game Boy Color (ゲームボーイカラー, Gēmu Bōi Karā), abrégé GBC, est la console de jeux vidéo portable succédant à la Game Boy. Créée par Nintendo, elle incorpore un écran couleur à peine plus grand que celui de la Game Boy. En revanche, son processeur est deux fois plus rapide, et sa mémoire deux fois plus grande. Elle est rétrocompatible avec tous les jeux Game Boy de première génération.
-
-La Game Boy Color est disponible en coques de différentes versions : translucide, violet, bleu, vert, fuchsia, jaune, violet translucide. Des éditions limitées ont également été éditées : noir translucide, vert translucide, bleu nuit, bleu translucide, orange clair, vert et or et une dizaine d'autres variantes spécifiques, ainsi que 7 versions « Pokémon ».
-
-Elle est sortie fin 1998 au Japon, aux États-Unis, en Europe et en Australie.</text>
-			<text lang="de">Descpriptions. Pls send me it in Discord</text>
-			<text lang="ru">Портативная игровая система, наследница Game Boy, выпущенная компанией Nintendo 21 октября 1998 года в Японии, в ноябре 1998 года в Северной Америке и в 1999 году в Европе.
-
-Игровая консоль оснащалась ЖК-дисплеем с цветовой гаммой, сравнимой с NES. Для системы вышло более 700 игр в различных жанрах (аркады, RPG, стратегии, симуляторы, спортивные игры), большую долю игр составляли игры про вселенную покемонов (Pokemon). Также выходили игры в самых неожиданных для портативной консоли жанрах, например, в жанре Survival Horror (Alone in the Dark: The New Nightmare и Resident Evil Gaiden).
-
-Спад продаж Game Boy Color наступил в начале 2001 года, когда Nintendo выпустила новую версию Game Boy — Game Boy Advance.</text>
+La Game Boy Color forma parte de la quinta generación de consolas de videojuegos. Los principales competidores de la GBC en Japón eran las consolas de mano de 16 bits en escala de grises, la Neo Geo Pocket de SNK y la WonderSwan de Bandai, aunque la Game Boy Color las superó en ventas por un amplio margen. SNK y Bandai contraatacaron con la Neo Geo Pocket Color y la WonderSwan Color, respectivamente, pero esto no cambió el dominio de las ventas de Nintendo. Tras la retirada de la Game Gear por parte de Sega en 1997, la única competidora de la Game Boy Color en Estados Unidos fue su predecesora, la Game Boy, hasta que la efímera Neo Geo Pocket Color salió a la venta en Norteamérica en agosto de 1999.</text>
 			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>
