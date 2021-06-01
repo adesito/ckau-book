@@ -208,7 +208,7 @@ originally based on: "simple, carbon, art-book"
 		<tilesVideoViewName>Viñetaas + Video</tilesVideoViewName>
 		<gridDetailsViewName>Rejilla + Detalle</gridDetailsViewName>
 		<NoVideoDetailsViewName>Detalle sin video</NoVideoDetailsViewName>
-		<subset.systembackground>Antecedentes</subset.systembackground>
+		<subset.systembackground>Sistema de Fondo</subset.systembackground>
 		<Art_169>Consolas (RPi3, ajuste la memoria de vídeo a 80)</Art_169>
 		<CV1>Vídeos a pantalla completa (Desactivar la optimización de la memoria para los vídeos)</CV1>
 		<CV2>Vídeos de la RPi3 (360p, Desactivar la optimización de la memoria para los vídeos)</CV2>
