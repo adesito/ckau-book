@@ -9,7 +9,8 @@ Site: https://4pda.ru/forum/index.php?showtopic=802556&st=1600#entry83038152
 Based: Alekfull Bello v2, Art Book, Carbon, Colorful
 Credits: Viking for the awesome Colorful images
 Language: Spanish.
----
+
+===
 Summary of the license below:
 
 ALLOWED: - Share and duplicate as it is - Edit, alter, change it
